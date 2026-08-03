@@ -1,0 +1,13 @@
+# Zero-Leak E2E Encrypted Messenger - Python Dependencies
+# Note: Low-level C bindings (ctypes, libc) are part of the Python Standard Library
+# and native Linux kernel OS APIs, so no external installation is required for them.
+
+# Cryptographic Primitives & Double Ratchet Support
+cryptography>=42.0.0
+
+# Graphic Subsystem & Cython UI Engine
+kivy>=2.3.0
+Cython>=3.0.0
+
+# Additional Cryptographic Support
+pycryptodome>=3.20.0
