@@ -40,7 +40,7 @@ Make sure you have Python 3.10+ installed on a Linux environment.
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/zero_leak_messenger.git](https://github.com/YOUR_USERNAME/zero_leak_messenger.git)
+git clone https://github.com/YOUR_USERNAME/zero_leak_messenger.git
 cd zero_leak_messenger
 
 # 2. Create and activate a virtual environment
